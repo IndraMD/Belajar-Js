@@ -77,7 +77,7 @@ console.log("Nama ", people[2].anak.nama[1]);
 console.log("Total array ", people.length);
 // console.log("Panggil array terakhir ", people[people.length-1]);
 // console.log("Panggil array terakhir ", people[2]);
-
+// const manusia={"siniii":1} tidak bisa looping objek
 people.forEach(function(element) {
   console.log("Total semua", element.author,element.details.publisher);
 });
