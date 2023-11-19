@@ -1,1 +1,2 @@
-const boolean =true
+const boolean =true;
+const name="sopyan";
