@@ -40,6 +40,7 @@ function totalHargaShip(price, qty, operator) {
         totalPrice=price*qty
       break;
   }
+  
   return "Total" + " " + totalPrice
 }
 
